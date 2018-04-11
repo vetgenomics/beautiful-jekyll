@@ -1,4 +1,10 @@
 
+---
+layout: page
+title: Hungate 1000
+subtitle: Public genomes from Hungate 1000 project
+use-site-title: true
+---
 
 |FOJY01000054.1|Acetitomaculum ruminis DSM 5522|PRJEB17106|SAMN05216249|1120918|[GCF_900112085.1](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/112/085/GCF_900112085.1_IMG-taxon_2651870361_annotated_assembly)|[FASTA](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/112/085/GCF_900112085.1_IMG-taxon_2651870361_annotated_assembly/GCF_900112085.1_IMG-taxon_2651870361_annotated_assembly_genomic.fna.gz)||[GCA_900112085.1](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/112/085/GCA_900112085.1_IMG-taxon_2651870361_annotated_assembly)|[FASTA](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/112/085/GCA_900112085.1_IMG-taxon_2651870361_annotated_assembly/GCA_900112085.1_IMG-taxon_2651870361_annotated_assembly_genomic.fna.gz)|Acetitomaculum ruminis|139 B|DSM 5522|2651870361|Illumina HiSeq|vpAllpaths v. r46652|317.075|95.4|3082721|2710|2640|87.19|0.34|1664|1299|2135|869|76.09|54|
 |FOWJ01000056.1|Acidaminococcus fermentans|PRJEB17225|SAMN02910455|905|[GCF_900115425.1](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/115/425/GCF_900115425.1_IMG-taxon_2593339211_annotated_assembly)|[FASTA](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/115/425/GCF_900115425.1_IMG-taxon_2593339211_annotated_assembly/GCF_900115425.1_IMG-taxon_2593339211_annotated_assembly_genomic.fna.gz)||[GCA_900115425.1](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/115/425/GCA_900115425.1_IMG-taxon_2593339211_annotated_assembly)|[FASTA](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/115/425/GCA_900115425.1_IMG-taxon_2593339211_annotated_assembly/GCA_900115425.1_IMG-taxon_2593339211_annotated_assembly_genomic.fna.gz)|Acidaminococcus fermentans|pGA-4||2593339211|Illumina HiSeq|vpAllpaths v. r46652|623.091|99.98|2344887|2212|2136|89.01|0.56|1548|1193|1839|858|79.16|57|
