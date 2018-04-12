@@ -630,6 +630,11 @@ footer .theme-by {
 
 table {
   padding: 0;
+  width: 1200px;
+  text-align:center; 
+  margin-left:auto; 
+  margin-right:auto; 
+  width:1100px;
 }
 table tr {
   border-top: 1px solid #cccccc;
@@ -643,14 +648,14 @@ table tr:nth-child(2n) {
 table tr th {
   font-weight: bold;
   border: 1px solid #cccccc;
-  font-size: 10px;
+  font-size: 12px;
   text-align: left;
   margin: 0;
   padding: 6px 13px;
 }
 table tr td {
   border: 1px solid #cccccc;
-  font-size: 10px;
+  font-size: 12px;
   text-align: left;
   margin: 0;
   padding: 6px 13px;
