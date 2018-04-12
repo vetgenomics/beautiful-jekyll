@@ -643,12 +643,14 @@ table tr:nth-child(2n) {
 table tr th {
   font-weight: bold;
   border: 1px solid #cccccc;
+  font-size: 10px;
   text-align: left;
   margin: 0;
   padding: 6px 13px;
 }
 table tr td {
   border: 1px solid #cccccc;
+  font-size: 10px;
   text-align: left;
   margin: 0;
   padding: 6px 13px;
