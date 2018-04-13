@@ -22,7 +22,7 @@ The ten that are missing are:
 
 I assume these are all available from the [JGI website](https://genome.jgi.doe.gov/portal/TheHunmicrobiome/TheHunmicrobiome.info.html) (requires log-in) and I am not sure why they are not yet in GenBank/RefSeq.
 
-A TSV copy of Supplementary Table 2 with the addition of the public data can be found [here](suppl_tabel_2_augmented.tsv).  A TSV copy of the table below, with just 400 genomes, can be found [here](hungate400.tsv).
+A TSV copy of Supplementary Table 2 with the addition of the public data can be found [here](suppl_table_2_augmented.tsv).  A TSV copy of the table below, with just 400 genomes, can be found [here](hungate400.tsv).
 
 
 Accession     |Title                                                 |BioProject |BioSample   |Tax ID |GenBank FTP                                                                                                                      |GenBank Assembly                                                                                                                                                                                        |RefSeq FTP                                                                                                                       |RefSeq Assembly
