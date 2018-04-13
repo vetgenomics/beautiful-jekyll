@@ -5,7 +5,7 @@ subtitle: Public genomes from Hungate 1000 project
 use-site-title: true
 ---
 
-Below are 400 of the 410 genomes [recently published](https://www.nature.com/articles/nbt.4110) by the Hungate 1000 project.  These are the 400 publicly available, and below are links to the NCBI GenBank and RefSeq assemblies and FTP sites.
+Below are 400 of the 410 genomes [recently published](https://www.nature.com/articles/nbt.4110) by the Hungate 1000 project.  These are the 400 publicly available.
 
 The ten that are missing are:
 
@@ -22,9 +22,7 @@ The ten that are missing are:
 
 I assume these are all available from the [JGI website](https://genome.jgi.doe.gov/portal/TheHunmicrobiome/TheHunmicrobiome.info.html) (requires log-in) and I am not sure why they are not yet in GenBank/RefSeq.
 
-A TSV copy of Supplementary Table 2 with the addition of the public data can be found [here](suppl_tabel_2_augmented.tsv).
-
-A TSV copy of the table below, with just 400 genomes, can be found [here](hungate400.tsv).
+A TSV copy of Supplementary Table 2 with the addition of the public data can be found [here](suppl_tabel_2_augmented.tsv).  A TSV copy of the table below, with just 400 genomes, can be found [here](hungate400.tsv).
 
 
 Accession     |Title                                                 |BioProject |BioSample   |Tax ID |GenBank FTP                                                                                                                      |GenBank Assembly                                                                                                                                                                                        |RefSeq FTP                                                                                                                       |RefSeq Assembly
