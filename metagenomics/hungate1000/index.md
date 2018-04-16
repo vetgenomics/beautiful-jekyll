@@ -1,3 +1,31 @@
+---
+layout: default
+title: Hungate 1000
+subtitle: Public genomes from Hungate 1000 project
+use-site-title: true
+---
+
+Below are 400 of the 410 genomes recently published by the Hungate 1000 project. These are the 400 publicly available.
+
+The ten that are missing are:
+
+Erysipelatoclostridium innocuum NLAE-zl-G197
+Fibrobacter succinogenes subsp. elongatus HM2 ATCC 43856
+Lachnoclostridium contortum NLAE-zl-C134
+Lachnoclostridium oroticum NLAE-zl-C242
+Lactobacillus mucosae	AGR63
+Lactococcus lactis subsp. lactis 511
+Methanobrevibacter millerae ZA-10 DSM 16643
+Methanosarcina sp. Ms 97 DSM 11855
+Ruminococcaceae bacterium R-25
+Ruminococcus flavefaciens SAb67
+
+I assume these are all available from the [JGI website](https://genome.jgi.doe.gov/portal/TheHunmicrobiome/TheHunmicrobiome.info.html) (requires log-in) and I am not sure why they are not yet in GenBank/RefSeq.
+
+A TSV copy of Supplementary Table 2 with the addition of the public data can be found [here](suppl_table_2_augmented.tsv). A TSV copy of the table below, with just 400 genomes, can be found [here](hungate400.tsv).
+
+
+
 Title                                                       |BioProject |BioSample   |Tax ID |GenBank FTP                                                                                                                      |GenBank Assembly                                                                                                                                                                                        |RefSeq FTP                                                                                                                       |RefSeq Assembly
 :-----------------------------------------------------------|:----------|:-----------|:------|:--------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Acetitomaculum ruminis 139 B DSM 5522                       |PRJEB17106 |SAMN05216249|1120918|[GCA_900112085.1](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/112/085/GCA_900112085.1_IMG-taxon_2651870361_annotated_assembly)|[GCA_900112085.1](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/112/085/GCA_900112085.1_IMG-taxon_2651870361_annotated_assembly/GCA_900112085.1_IMG-taxon_2651870361_annotated_assembly_genomic.fna.gz)|[GCF_900112085.1](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/112/085/GCF_900112085.1_IMG-taxon_2651870361_annotated_assembly)|[GCF_900112085.1](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/112/085/GCF_900112085.1_IMG-taxon_2651870361_annotated_assembly/GCF_900112085.1_IMG-taxon_2651870361_annotated_assembly_genomic.fna.gz)
