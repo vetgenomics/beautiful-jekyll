@@ -7,7 +7,7 @@ use-site-title: true
 
 Please cite:
 
-* Stewart RD, Auffret MD, Warr A, Wiser AH, Press MO, Langford KW, Liachko I, Snelling TJ, Dewhurst RJ, Walker AW, Roehe R, Watson M. Assembly of 913 microbial genomes from metagenomic sequencing of the cow rumen. Nat Commun. 28;9(1):870. doi: [10.1038/s41467-018-03317-6](https://dx.doi.org/10.1038/s41467-018-03317-6)
+* Stewart RD, Auffret MD, Warr A, Wiser AH, Press MO, Langford KW, Liachko I, Snelling TJ, Dewhurst RJ, Walker AW, Roehe R, Watson M. Assembly of 913 microbial genomes from metagenomic sequencing of the cow rumen. Nat Commun. 9(1):870. doi: [10.1038/s41467-018-03317-6](https://dx.doi.org/10.1038/s41467-018-03317-6)
 
 Below are 885 public genomes from the 913 published (we are currently unsure why 28 are missing, a query has been raised at EBI ENA).
 
