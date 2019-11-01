@@ -3,6 +3,7 @@ layout: default
 title: Hungate 1000
 subtitle: Public genomes from Hungate 1000 project
 use-site-title: true
+bigimg: https://vetgenomics.github.io/metagenomics/img/pexels-photo-753868.25.long.jpg
 ---
 
 Below are 400 of the 410 genomes recently published by the Hungate 1000 project. These are the 400 publicly available.
