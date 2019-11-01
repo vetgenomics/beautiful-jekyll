@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rumen Uncultured Genomes 2 (RUG2)
+title: Rumen Uncultured Genomes 2
 subtitle: Public genomes from Stewart et al 2019
 use-site-title: true
 bigimg: https://vetgenomics.github.io/metagenomics/img/pexels-photo-753868.25.long.jpg
