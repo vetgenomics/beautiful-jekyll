@@ -3,7 +3,7 @@ layout: default
 title: Rumen Uncultured Genomes (RUG) version 2
 subtitle: Public genomes from Stewart et al 2019
 use-site-title: true
-bigimg: img/pexels-photo-753868.25.long.jpg
+bigimg: https://vetgenomics.github.io/metagenomics/img/pexels-photo-753868.25.long.jpg
 ---
 
 We present 20,469 at least 50% complete from which the 4941 MAGs were chosen; and the 4941 MAGs themselves:
