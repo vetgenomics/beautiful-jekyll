@@ -3,6 +3,7 @@ layout: default
 title: Rumen Uncultured Genomes (RUG)
 subtitle: Public genomes from Stewart et al 2018
 use-site-title: true
+bigimg: https://vetgenomics.github.io/metagenomics/img/pexels-photo-753868.25.long.jpg
 ---
 
 Please cite:
