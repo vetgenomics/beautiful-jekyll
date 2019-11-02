@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Rumen Uncultured Genomes 2
+title: RUG 2
 subtitle: Public genomes from Stewart et al 2019
 use-site-title: true
 bigimg: https://vetgenomics.github.io/metagenomics/img/pexels-photo-753868.25.long.jpg
 ---
 
-We present 20,567 at least 50% complete from which the 4941 MAGs were chosen; and the 4941 MAGs themselves:
+### Rumen Uncultured Genomes (RUG) v2
+
+We present 20,567 metagenome-assembled genomes (bins) that are at least 50% complete from which the 4941 MAGs were chosen; and the 4941 MAGs themselves:
 
 * [20,567 bins](bins_table_sorted_plus_urls.md)
 * 4,941 MAGs
