@@ -20,7 +20,7 @@ Please cite:
 * Stewart RD, Auffret MD, Warr A, Wiser AH, Press MO, Langford KW, Liachko I, Snelling TJ, Dewhurst RJ, Walker AW, Roehe R, Watson M. Assembly of 913 microbial genomes from metagenomic sequencing of the cow rumen. **Nat Commun.** 9(1):870. doi: [10.1038/s41467-018-03317-6](https://dx.doi.org/10.1038/s41467-018-03317-6)
 
 
-test: [FASTA](ftp://ftp.sra.ebi.ac.uk/vol1/ERZ102/ERZ1024257/10676_0003_idba.fa.gz)
+test: [FASTA](ftp.sra.ebi.ac.uk/vol1/ERZ102/ERZ1024257/10676_0003_idba.fa.gz)
 
 
 |sample_accession                                            |sample name     |assembler|assembly_type|assembly_accession                                          |FASTA                                                                                     |
