@@ -8,8 +8,9 @@ bigimg: https://vetgenomics.github.io/metagenomics/img/pexels-photo-753868.25.lo
 
 ### Rumen Uncultured Genomes (RUG) v2
 
-We present 20,567 metagenome-assembled genomes (bins) that are at least 50% complete from which the 4941 MAGs were chosen; and the 4941 MAGs themselves:
+We present 288 primary metagenome assemblies, 20,567 metagenome-assembled genomes (bins) that are at least 50% complete from which the 4941 MAGs were chosen; and the 4941 MAGs themselves:
 
+* [288 metagenome assemblies](metagenome_assemblies.md)
 * [20,567 bins](bins_table_sorted_plus_urls.md)
 * 4,941 MAGs
 
