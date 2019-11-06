@@ -13,6 +13,8 @@ We present 288 metagenome-assemblies from which all of our MAGs and bins were as
 * 282 primary metagenome assemblies
 * 6 co-assemblies
 
+A CSV of the table can be found [here](metagenome_assemblies.csv)
+
 Please cite:
 
 * Stewart RD, Auffret MD, Warr A, Walker AW, Roehe R, Watson M. Compendium of 4,941 rumen metagenome-assembled genomes for rumen microbiome biology and enzyme discovery. **Nat Biotechnol.** 37(8):953-961. doi: [10.1038/s41587-019-0202
